@@ -1,13 +1,13 @@
 @font-face {
-   font-family: "Roboto Regular";
-   src: url("fonts/Roboto Regular.woff") format("woff"), url("fonts/Roboto Regular.eot") format("embedded-opentype"), url("fonts/Roboto Regular.otf") format("opentype");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
    font-family: "Arial Bold";
    src: url("fonts/Arial Bold.woff") format("woff"), url("fonts/Arial Bold.eot") format("embedded-opentype"), url("fonts/Arial Bold.ttf") format("truetype"), url("fonts/Arial Bold.svg") format("svg");
    font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto Regular";
+   src: url("fonts/Roboto Regular.woff") format("woff"), url("fonts/Roboto Regular.eot") format("embedded-opentype"), url("fonts/Roboto Regular.otf") format("opentype");
+   font-weight: normal;
    font-style: normal;
 }
 @font-face {
